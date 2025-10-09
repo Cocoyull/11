@@ -291,7 +291,7 @@
 	margin: 10px auto;
 }
 #photo .main-content .photo-album img {
-	width: 65px;
+	width: 55px;
 	height: 480px;
 	border-right: 2px solid white;
 	transition: width 0.4s ease;
